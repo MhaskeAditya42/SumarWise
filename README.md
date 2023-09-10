@@ -10,21 +10,7 @@ The Summarizer Tool is a Python-based Natural Language Processing (NLP) project 
 
 2. Customizable Summaries: You can customize the length and level of detail in the generated summaries. Whether you need a brief overview or a more detailed summary, the tool can accommodate your preferences.
 
-## Installation
-To install the SummarWise , follow these steps:
 
-1. Clone this repository to your local machine.
-
-git clone https://github.com/your-username/summarizer-tool.git
-
-2. Navigate to the project directory.
-  cd Summarwise
-
-3. Install the required dependencies.
-
-pip install -r requirements.txt
-
-You're now ready to use SummarWise!
 
 
 ## Project Workflows
