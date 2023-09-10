@@ -1,7 +1,33 @@
 # SumarWise
 
-## Workflows
 
+## Overview
+
+The Summarizer Tool is a Python-based Natural Language Processing (NLP) project designed to automatically generate concise and coherent summaries of longer text documents. Whether you're a student looking to condense lengthy research papers or a professional aiming to extract key insights from a verbose report, this tool can help you save time and gain a quick understanding of the content
+
+## Features
+1. Text Summarization: The core feature of this tool is its ability to summarize text documents. It uses advanced NLP techniques to extract the most important information from the input text.
+
+2. Customizable Summaries: You can customize the length and level of detail in the generated summaries. Whether you need a brief overview or a more detailed summary, the tool can accommodate your preferences.
+
+## Installation
+To install the SummarWise , follow these steps:
+
+1. Clone this repository to your local machine.
+
+git clone https://github.com/your-username/summarizer-tool.git
+
+2. Navigate to the project directory.
+  cd Summarwise
+
+3. Install the required dependencies.
+
+pip install -r requirements.txt
+
+You're now ready to use SummarWise!
+
+
+## Project Workflows
 
 1. Update config.yaml
 2. Update params.yaml
@@ -12,4 +38,3 @@
 7. update the main.py
 8. update the app.py
 
-// https://github.com/entbappy/Branching-tutorial/raw/master/summarizer-data.zip
